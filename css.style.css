@@ -3,18 +3,18 @@ body{
     margin: 0;
     padding: 40px;
     text-align: center;
-    background: linear-gradient(to right, #dbeafe, #f0f9ff);
+    background: linear-gradient(to right, #004fb6, #49a2dd);
 }
 
 header{
     background: #1e3a8a;
-    color: white;
+    color: rgb(41, 14, 158);
     padding: 20px;
     margin-bottom: 30px;
 }
 
 h1{
-    color: #1e3a8a;
+    color: #0042f8;
     font-size: 42px;
     margin-bottom: 20px;
 }
@@ -23,11 +23,11 @@ p{
     max-width: 650px;
     margin: 20px auto;
     padding: 20px;
-    background: rgba(255,255,255,0.8);
+    background: white;
     border-radius: 10px;
     font-size: 18px;
     line-height: 1.6;
-    color: #374151;
+    color: #1e3a8a;;
 }
 
 nav ul{
