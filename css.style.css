@@ -107,3 +107,25 @@ nav a:hover{
         font-size: 16px;
     }
 }
+
+.product a{
+    list-style: none;
+    font-size: 22px;
+    font-weight: bold;
+    color: #1e3a8a;
+    margin-bottom: 15px;
+}
+#cart-items { list-style-position: inside; /* moves bullets inside */ 
+    text-align: center; padding: 20px; 
+    margin: 0 auto; width: 60%; 
+    background-color: rgba(255, 255, 255, 0.8); 
+    border-radius: 15px; 
+} 
+
+#cart-items li { text-align: center; 
+    margin: 15px auto; 
+    padding: 15px; 
+    background-color: white; 
+    border-radius: 10px; 
+    border-left: 5px solid #1e3a8a; 
+}
